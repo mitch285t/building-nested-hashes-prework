@@ -22,7 +22,7 @@ def bonus
 
  epic_tragedy[Montague][hero][status]="Dead"
  epic_tragedy[Capulet][heroine][status] = "Dead"
-
+puts epic_tragedy
   
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
